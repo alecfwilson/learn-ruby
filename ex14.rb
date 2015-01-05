@@ -30,4 +30,6 @@ You live in #{lives}. Not sure where that is.
 And you have a #{computer} computer. Nice.
 """
 
+
+# found games at http://thcnet.net/zork/ and http://www.amctv.com/shows/halt-and-catch-fire/colossal-cave-adventure/landing
 # Exercise 14: Prompting and Passing
