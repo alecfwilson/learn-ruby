@@ -40,7 +40,7 @@ puts "is it less or equal? #{5.0 <= -2.0}"
 # - minus
 # / slash
 # * asterick
-# % percent
+# % modulus (division with remainder)
 # < less than
 # > greater than
 # <= less-than-equal
