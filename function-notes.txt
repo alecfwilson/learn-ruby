@@ -1,0 +1,12 @@
+Function Checklist
+1. Begins with def
+2. name must only have chars and _
+3. function name is followed by (
+4. After ( is arguments
+5. close with )
+6. function code is indented
+8. ends with end
+
+Calling a function
+1. caled by name
+2. (args) isn't blank
