@@ -1,0 +1,1 @@
+brew update --verbose && brew cask update --verbose && brew upgrade --verbose && brew linkapps --verbose && brew tap --repair --verbose && brew prune --verbose && brew cleanup --force --verbose && brew cask cleanup --force --verbose && brew cask doctor && brew doctor --verbose && brew cask audit
