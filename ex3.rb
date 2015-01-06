@@ -45,3 +45,5 @@ puts "is it less or equal? #{5.0 <= -2.0}"
 # > greater than
 # <= less-than-equal
 # >= greater-than-equal
+
+# Exercise 3: Numbers And Math

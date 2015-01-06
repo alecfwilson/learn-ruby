@@ -34,3 +34,5 @@ e = "a string with a right side."
 
 # prints the variables w and e together to output a single string
 puts w + e
+
+# Exercise 6: Strings And Text

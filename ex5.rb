@@ -14,3 +14,5 @@ puts "His teeth are usually #{teeth} depending on the coffee."
 
 # this line is tricky, try and get it exactly right
 puts "If I add #{age}, #{height}, and #{weight} I get #{age + height + weight}."
+
+# Exercise 5: More Variables And Printing
