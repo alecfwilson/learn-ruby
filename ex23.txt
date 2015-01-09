@@ -1,0 +1,8 @@
+# Visit github
+# search for 'ruby'
+# pick a project
+# browse the source code until locating a .rb file
+# read the file, taking notes on what should be happening
+# write any symbols or words that seem interesting here
+
+# Exercise 23: Read Some Code
