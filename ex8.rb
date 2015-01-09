@@ -21,4 +21,5 @@ puts formatter % {
   # fourth segment
   fourth: "So I said goodnight."
 }
+
 # Exercise 8: Printing, Printing

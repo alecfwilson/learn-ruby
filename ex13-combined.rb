@@ -8,3 +8,5 @@ print "What is your name? "
 name = gets.chomp
 # prints name, height, and weight
 puts "#{name}, you are #{height} tall and #{weight} lbs."
+
+# combines shorter and longer ex13

@@ -33,4 +33,3 @@ print txt_again.read
 #	from /Users/alecfwilson/.rvm/rubies/ruby-2.1.5/bin/irb:11:in `<main>'
 
 # Exercise 15: Reading Files
-

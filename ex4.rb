@@ -15,11 +15,17 @@ carpool_capacity = cars_driven * space_in_a_car
 # the average number of people that will be riding in the cars
 average_passengers_per_car = passengers / cars_driven
 
+# prints the string, with the variable cars
 puts "There are #{cars} cars available."
+# prints the string, with the variable drivers
 puts "There are only #{drivers} drivers available."
+# prints the string, with the variable cars_not_driven
 puts "There will be #{cars_not_driven} empty cars today."
+# prints the string, with the variable carpool_capacity
 puts "We can transport #{carpool_capacity} people today."
+# prints the string, with the variable passengers
 puts "We have #{passengers} to carpool today."
+# prints the string, with the variable average_passengers_per_car
 puts "We need to put about #{average_passengers_per_car} in each car."
 
 # Exercise 4: Variables And Names

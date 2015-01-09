@@ -1,5 +1,6 @@
 # sets first name as first ARGV and last name as second ARGV
 first, second = ARGV
+# sets username to first and second argv separated by a space
 user_name = first + " " + second
 # defines prompt
 prompt = "prompt "
@@ -30,6 +31,8 @@ You live in #{lives}. Not sure where that is.
 And you have a #{computer} computer. Nice.
 """
 
+# found games at 
+  # http://thcnet.net/zork/ and 
+  # http://www.amctv.com/shows/halt-and-catch-fire/colossal-cave-adventure/landing
 
-# found games at http://thcnet.net/zork/ and http://www.amctv.com/shows/halt-and-catch-fire/colossal-cave-adventure/landing
 # Exercise 14: Prompting and Passing

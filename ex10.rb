@@ -37,4 +37,5 @@ Character with octal value ooo \ooo000, doesn\'t seem to work
 character with hexvalue hh \x99
 '''
 # use ''' when the multiline string has a variable included , but not processed.
+
 # Exercise 10: What Was That?

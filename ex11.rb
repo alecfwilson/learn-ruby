@@ -21,5 +21,7 @@ hometown = gets.chomp
 
 # prints string including age, height, and weight from user
 puts "So, you're #{age} years old, #{height_feet}'#{height_inches}\" tall, and #{weight} lbs heavy."
+# prints the string including the variable hometown
 puts "So you are from #{hometown}."
+
 # Exercise 11: Asking Questions

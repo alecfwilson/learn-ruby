@@ -1,0 +1,137 @@
+# Go through each exercise, write down every word or symbol used
+# Look up anything unknown
+
+# Ex 1
+puts
+#
+""
+''
+prints
+string
+comment
+
+# Ex 2
+
+
+# Ex 3
+line break
+#{}
+operators
++
+-
+/
+*
+%
+<
+>
+<=
+>=
+float
+int
+boolean
+true
+false
+
+# Ex 4
+variable
+=
+
+# Ex 5
+
+
+# Ex 6
+
+
+# Ex 7
+
+
+# Ex 8
+variable formatter (formatter = "%{first} %{second}")
+
+# Ex 9
+"""
+\n
+
+# Ex 10
+'''
+tab escape
+\t
+backslash escape
+\\
+newline escape
+ASCII bel (BEL)
+\a
+ASCII backspace (BS) \b
+ASCII linefeed (LF)
+Carraige Return (CR)
+\r
+hex value xxxx
+\u
+ASCII vertical tab (VT)
+\v
+octal value ooo
+\ooo
+hexvalue hh
+\x
+
+# Ex 11
+gets
+gets.chomp
+chomp
+to_i
+int
+
+
+# Ex 12
+to_f
+float
+
+# Ex 13
+ARGV
+argument
+parameters
+unpacking
+script
+
+# Ex 14
+$stdin
+
+# Ex 15
+.first
+open()
+.read
+
+# Ex 16
+CTRL-C
+w (flag for open)
+.write
+r (flag for read)
+truncate()
+.close
+.readline
+file
+
+# Ex 17
+.length
+File
+.exist?
+; (line breaks to write single line programs)
+
+# Ex 18
+function
+def
+*args
+arg
+
+# Ex 19
+.to_s
+
+# Ex 20
+seek()
++=
+increment
+
+# Ex 21
+formula
+
+# Exercise 22: What Do You Know So Far?
