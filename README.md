@@ -13,6 +13,7 @@ Finally, I'll also be including any throwaway programs I try to write in Ruby un
 <h3>Addendum</h4>
 
 As this project is designed for me to experiment with programming, I'm going to use this README to list technologies I'd like to eventually incorporate into a project, as well as technologies and skills related to it I'd like to improve.  I'll also list resources I've found that might be useful (this is just a brain dump. I don't expect to learn nearly this many technologies or use all these resources, these are just the ones I have encountered and had some level of interest in throughout my experience):
+
 * Lucene/Solr/Elastic Search
 * MySQL/MongoDB
 * Swift/Obj-C
@@ -53,7 +54,12 @@ As this project is designed for me to experiment with programming, I'm going to 
 * NLP
 * R
 * Go
+* JavaScript: The Definitive Guide, 6th Edition
+* JavaScript: The Good Parts
+* The Pragmattic Programmer
 * Scala
+* AJAX
+* XML
 * Haskell
 * PostgreSQL
 * XCode
@@ -64,3 +70,22 @@ As this project is designed for me to experiment with programming, I'm going to 
 * Eloquent JavaScript
 * node.js, angular.js, backbone.js
 * Twitter Bootstrap
+* Rails
+  * ActionController
+  * Metal
+  * Cassandra
+  * unicorn
+  * jquery
+  * CoffeeScript
+  * Sass
+  * Turbolinks
+  * Active Resource
+  * Active Record
+  * Spring
+  * Sprockets
+  * YML
+  * Mustache
+  * Fortitude
+  * JRuby
+  * erb
+  * HAML
