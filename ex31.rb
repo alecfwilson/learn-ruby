@@ -29,8 +29,22 @@ elsif door == "2"
   print "> "
   insanity = $stdin.gets.chomp
 
-  if insanity == "1" || "2"
+  if insanity == ("1" || "2") && !"3" # why do I need to include this?
     puts "Your body survives powered by a mind of jello. Good job!"
+  elsif insanity == "3"
+    puts "You decide to scream a number, 1 or 2"
+
+    print "> "
+    number = $stdin.gets.chomp
+
+    if number == "1"
+      puts "You found the pot of gold. Good job!"
+    elsif number == "2"
+      puts "Nothing happened. Good job!"
+    else
+      puts "The insanity rots your eyes into a pool of muck. Good job!"
+    end
+
   else
     puts "The insanity rots your eyes into a pool of muck. Good job!"
   end
