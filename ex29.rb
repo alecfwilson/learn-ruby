@@ -68,4 +68,11 @@ end
 # Yes
 # The outputs change
 
+# Zed's Answers
+  # if statement creates a "branch," if true, go one way, if not, skip
+  # identifies that it is a block of code
+  # without end, errors occur
+  # Yes
+  # outputs change
+
 # Exercise 29: What If
