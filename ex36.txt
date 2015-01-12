@@ -23,4 +23,4 @@ Tips for Software Development
 * Keep working in a cycle of writing some code, running it to test it, and fixing it until it works.
 * Cross this task off your list, then pick your next easiest task and repeat.
 
-# Designing and debugging
+# Exercise 36: Designing and Debugging
