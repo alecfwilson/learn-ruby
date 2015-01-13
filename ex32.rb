@@ -55,6 +55,7 @@ end
 end
 
 # now we can print them out too
+# for each instance of i in array elements, print the string
 elements.each {|i| puts "Element was: #{i}" }
 
 # range operators

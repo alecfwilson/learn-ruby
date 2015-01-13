@@ -59,14 +59,20 @@ puts "And finally, we close it."
 # saves and closes the file
 target.close
 
+# asks for the file again as the first ARGV
 file_again = ARGV.first
 
+# asks for user input
 $stdin.gets
 
+# prints the string
 puts "Opening the file…"
+# sets target to opening the file
 target = open(file_again)
 
+# prints the string
 puts "Reading the file: "
+# reads the file
 print target.read
 
 # close: closes the file, like File -> Save.. in the editor

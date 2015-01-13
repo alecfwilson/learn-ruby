@@ -36,7 +36,8 @@ puts "Is it greater or equal? #{5.0 >= -2.0}"
 # prints the line and whether the statement is true or false
 puts "is it less or equal? #{5.0 <= -2.0}"
 
-# + plus 
+#### RUBY OPERATORS ####
+# + plus
 # - minus
 # / slash
 # * asterick
