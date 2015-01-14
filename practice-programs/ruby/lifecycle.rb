@@ -216,6 +216,7 @@ puts "Congrats! You made it through the funnel!"
 
 
 # TO DO
-# rewrite function as a module, with each day as a function
-# ask for plan & engine_created between calling each function
+# Rewrite to be more DRY
+# fix functions day24 & day29 so that the engine_error message isn't always
+  # returned
 
