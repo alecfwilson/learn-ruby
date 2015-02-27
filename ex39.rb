@@ -111,4 +111,9 @@ city ||= 'Does Not Exist'
 # prints the string
 puts "The city for the state 'TX' is #{city}"
 
+# when to use hashes
+  # retrieve value based on non-int identifier
+  # order isn't important
+  # you need to add/remove elements & keys
 # Exercise 39: Hashes, Oh Lovely Hashes
+
